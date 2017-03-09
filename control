@@ -1,0 +1,10 @@
+Package: se.nosskirneh.ccnoscroll
+Name: CCNoScroll
+Description: Disables horizontal scrolling on CC
+Depiction: https://andreashenriksson.se/repo/depictions/?p=se.nosskirneh.ccnoscroll
+Version: 1.0
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.atwiiks.horseshoe
+Architecture: iphoneos-arm
+Section: Tweaks
+Maintainer: Andreas Henriksson
+Author: Andreas Henriksson
